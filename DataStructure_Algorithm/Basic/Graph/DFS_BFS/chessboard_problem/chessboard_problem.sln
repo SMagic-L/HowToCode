@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chessboard_problem", "chessboard_problem.vcxproj", "{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}.Debug|x64.ActiveCfg = Debug|x64
+		{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}.Debug|x64.Build.0 = Debug|x64
+		{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}.Debug|x86.Build.0 = Debug|Win32
+		{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}.Release|x64.ActiveCfg = Release|x64
+		{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}.Release|x64.Build.0 = Release|x64
+		{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}.Release|x86.ActiveCfg = Release|Win32
+		{3DDAED2E-1928-4A0E-96F0-5FA5DEA6011C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D576C43F-F780-4C82-A803-4C622890CBE2}
+	EndGlobalSection
+EndGlobal
