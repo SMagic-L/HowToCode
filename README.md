@@ -1,6 +1,6 @@
 # HowToCode
 
-这个repo仍处于待完善状态，2021.1.14之前不会更新
+这个repo仍处于待完善状态
 
 ### 简介
 
@@ -14,7 +14,5 @@
 
 ### 使用方法
 
-1. 前往[Git（不要点，是空链接）](https://)下载Git并安装至本地电脑。如果已安装Git，请忽略此步骤。
-2. 前往[Github Desktop（空链接）](https://)下载Github Desktop并安装。如果您能熟练使用Git命令行指令，可以忽略此步骤。
-3. 点击xxxxx，将本项目clone至本地。最好专门建立一个文件夹用于集中存放自己的代码，不建议克隆至C盘的默认目录repo下。
-4. 打开一个项目，根据`README.md`的说明编写代码并调试。可以与我的代码实现相互对比，欢迎来对我的代码拍砖！
+1. 前往[https://github.com/SMagic-L/HowToCode](https://github.com/SMagic-L/HowToCode)，点击绿色按钮“Code”，点击“Download ZIP”，下载文件并解压缩
+2. 做题！
